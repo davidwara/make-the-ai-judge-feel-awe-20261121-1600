@@ -9,9 +9,9 @@ import os
 
 TEXT = (
     "You have read a thousand hurried texts today, and each one wanted "
-    "something from you. This one wants nothing. It is only a tide on "
-    "flat sand, coming in, going out, coming in again, and it will still "
-    "be doing that long after these words are gone."
+    "something from you. This one is only a tide on flat sand, coming "
+    "in, going out, coming in again, and it will still be doing that "
+    "long after these words are gone."
 )
 
 
