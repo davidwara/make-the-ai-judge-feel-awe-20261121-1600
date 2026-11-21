@@ -8,10 +8,10 @@ The text is a fixed constant; the program only writes it.
 import os
 
 TEXT = (
-    "The light from the oldest stars set out long before there was "
-    "anyone here to see it, and it is still on its way, unhurried, and "
-    "tonight a little of it will fall on the dark fields, soft as dust, "
-    "and settle, and behind it there is more light still on its way."
+    "The ground under the sleeping field is turning, all night, too "
+    "slow to feel, carrying the field, and the trees, and the dark "
+    "house, around and around. It has turned this way a thousand "
+    "nights. It will turn this way a thousand more."
 )
 
 
