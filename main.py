@@ -8,10 +8,10 @@ The text is a fixed constant; the program only writes it.
 import os
 
 TEXT = (
-    "You have read a thousand hurried texts today, and each one wanted "
-    "something from you. This one is only a tide on flat sand, coming "
-    "in, going out, coming in again, and it will still be doing that "
-    "long after these words are gone."
+    "A tide is coming in over flat sand, coming in, going out, coming "
+    "in again, smoothing away footprints without hurry, and it has been "
+    "doing this since before there were roads, and it will still be "
+    "doing it long after the roads are gone."
 )
 
 
